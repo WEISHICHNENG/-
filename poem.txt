@@ -1,7 +1,11 @@
-锄禾
+锄禾          与    码农
 
 锄禾日当午，
+码农
 汗滴禾下土.
+码农
 谁知盘中餐，
+码农
 粒粒皆辛苦.
+代码
 This poem is for all who work on software.
