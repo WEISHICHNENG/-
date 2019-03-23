@@ -7,5 +7,5 @@
 谁知盘中餐，
 码农
 粒粒皆辛苦.
-代码
+代码(code)
 This poem is for all who work on software.
